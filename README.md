@@ -1,5 +1,6 @@
 # RuneCrypt
-A hardcore encryption application - Currently in beta testing - Available on Windows and Linux <br>
+CURRENTLY SCHEDULED FOR REWRITE
+A hardcore encryption application - Currently in beta testing<br>
 
 # Basic Usage:<br>
 To install the necessary libraries use-<br>
