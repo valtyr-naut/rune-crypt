@@ -1,5 +1,5 @@
 # RuneCrypt
-CURRENTLY SCHEDULED FOR REWRITE
+CURRENTLY SCHEDULED FOR REWRITE <br>
 A hardcore encryption application - Currently in beta testing<br>
 
 # Basic Usage:<br>
